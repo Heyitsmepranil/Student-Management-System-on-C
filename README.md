@@ -1,7 +1,7 @@
 # Student-Management-System-on-C
 📘 Student Management System (CRUD in C)
 
-This project is a menu-driven Student Management System developed in C that performs basic CRUD operations (Create, Read, Update, Delete) using file handling.
+This project is a menu-driven Student Management System developed in C that performs basic CRUD operations (Create, Read, Update, Delete) using file handling. The Code is written in linux and error may occur in other platforms.
 
 🚀 Features
 Create: Add new student records
